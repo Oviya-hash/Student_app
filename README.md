@@ -14,7 +14,6 @@ A complete full-stack application to manage student records, built using **HTML,
 * ☸️ Kubernetes deployment ready
 
 ---
----
 
 ## 🗄️ Database Setup (MySQL)
 
@@ -33,7 +32,6 @@ CREATE TABLE students (
 );
 ```
 
----
 
 ## ⚙️ Backend Setup
 
@@ -49,7 +47,6 @@ Server runs on:
 http://localhost:5000
 ```
 
----
 
 ## 🎨 Frontend Setup
 
@@ -59,7 +56,6 @@ Open:
 frontend/index.html
 ```
 
----
 
 ## 🐳 Run with Docker
 
@@ -88,7 +84,6 @@ Check services:
 kubectl get svc
 ```
 
----
 
 ## ☁️ Deployment (AWS)
 
